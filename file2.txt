@@ -1,1 +1,2 @@
 File 2 modified from master branch.
+I am modifying file 2 from branch
